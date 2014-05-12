@@ -1,0 +1,30 @@
+C:\Users\Vitor\AppData\Local\Temporary Projects\Project Georgia\bin\Debug\Project Georgia.exe.config
+C:\Users\Vitor\AppData\Local\Temporary Projects\Project Georgia\bin\Debug\Project Georgia.exe
+C:\Users\Vitor\AppData\Local\Temporary Projects\Project Georgia\bin\Debug\Project Georgia.pdb
+C:\Users\Vitor\AppData\Local\Temporary Projects\Project Georgia\bin\Debug\Project Georgia.xml
+C:\Users\Vitor\AppData\Local\Temporary Projects\Project Georgia\obj\Debug\Project_Georgia.Form1.resources
+C:\Users\Vitor\AppData\Local\Temporary Projects\Project Georgia\obj\Debug\Project_Georgia.Resources.resources
+C:\Users\Vitor\AppData\Local\Temporary Projects\Project Georgia\obj\Debug\Project Georgia.vbproj.GenerateResource.Cache
+C:\Users\Vitor\AppData\Local\Temporary Projects\Project Georgia\obj\Debug\Project Georgia.exe
+C:\Users\Vitor\AppData\Local\Temporary Projects\Project Georgia\obj\Debug\Project Georgia.xml
+C:\Users\Vitor\AppData\Local\Temporary Projects\Project Georgia\obj\Debug\Project Georgia.pdb
+C:\Users\Vitor\Documents\Visual Studio 2012\Projects\Project Georgia\Project Georgia\bin\Debug\Project Georgia.exe.config
+C:\Users\Vitor\Documents\Visual Studio 2012\Projects\Project Georgia\Project Georgia\obj\Debug\Project Georgia.exe
+C:\Users\Vitor\Documents\Visual Studio 2012\Projects\Project Georgia\Project Georgia\obj\Debug\Project Georgia.xml
+C:\Users\Vitor\Documents\Visual Studio 2012\Projects\Project Georgia\Project Georgia\obj\Debug\Project Georgia.pdb
+C:\Users\Vitor\Documents\Visual Studio 2012\Projects\Project Georgia\Project Georgia\bin\Debug\Project Georgia.exe
+C:\Users\Vitor\Documents\Visual Studio 2012\Projects\Project Georgia\Project Georgia\bin\Debug\Project Georgia.pdb
+C:\Users\Vitor\Documents\Visual Studio 2012\Projects\Project Georgia\Project Georgia\bin\Debug\Project Georgia.xml
+C:\Users\Vitor\Documents\Visual Studio 2012\Projects\Project Georgia\Project Georgia\obj\Debug\Project_Georgia.Form1.resources
+C:\Users\Vitor\Documents\Visual Studio 2012\Projects\Project Georgia\Project Georgia\obj\Debug\Project_Georgia.Resources.resources
+C:\Users\Vitor\Documents\Visual Studio 2012\Projects\Project Georgia\Project Georgia\obj\Debug\Project Georgia.vbproj.GenerateResource.Cache
+C:\Users\Vitor\Documents\Visual Studio 2013\Projects\Project Georgia\Project Georgia\bin\Debug\Project Georgia.exe.config
+C:\Users\Vitor\Documents\Visual Studio 2013\Projects\Project Georgia\Project Georgia\bin\Debug\Project Georgia.exe
+C:\Users\Vitor\Documents\Visual Studio 2013\Projects\Project Georgia\Project Georgia\bin\Debug\Project Georgia.pdb
+C:\Users\Vitor\Documents\Visual Studio 2013\Projects\Project Georgia\Project Georgia\bin\Debug\Project Georgia.xml
+C:\Users\Vitor\Documents\Visual Studio 2013\Projects\Project Georgia\Project Georgia\obj\Debug\Project_Georgia.Form1.resources
+C:\Users\Vitor\Documents\Visual Studio 2013\Projects\Project Georgia\Project Georgia\obj\Debug\Project_Georgia.Resources.resources
+C:\Users\Vitor\Documents\Visual Studio 2013\Projects\Project Georgia\Project Georgia\obj\Debug\Project Georgia.vbproj.GenerateResource.Cache
+C:\Users\Vitor\Documents\Visual Studio 2013\Projects\Project Georgia\Project Georgia\obj\Debug\Project Georgia.exe
+C:\Users\Vitor\Documents\Visual Studio 2013\Projects\Project Georgia\Project Georgia\obj\Debug\Project Georgia.xml
+C:\Users\Vitor\Documents\Visual Studio 2013\Projects\Project Georgia\Project Georgia\obj\Debug\Project Georgia.pdb
